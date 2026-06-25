@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.20504162"
-     inkscape:cx="1080.2685"
-     inkscape:cy="1928.8767"
+     inkscape:zoom="0.57994528"
+     inkscape:cx="283.64745"
+     inkscape:cy="487.11492"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -33,25 +33,42 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <rect
+       x="90.225585"
+       y="260.92264"
+       width="127.41316"
+       height="145.09249"
+       id="rect5" />
+    <rect
+       x="93.273746"
+       y="249.33962"
+       width="137.16727"
+       height="151.79845"
+       id="rect3" />
+    <rect
+       x="90.225586"
+       y="260.92264"
+       width="127.41316"
+       height="145.09248"
+       id="rect5-1" />
+    <rect
+       x="90.225586"
+       y="260.92264"
+       width="127.41316"
+       height="145.09248"
+       id="rect5-19" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
        id="rect1"
        width="63.5"
        height="88.900002"
        x="20.529957"
-       y="21.898615"
-       ry="4.1059904" />
-    <rect
-       style="fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
-       id="rect1-8"
-       width="63.5"
-       height="88.900002"
-       x="86.629959"
        y="21.898615"
        ry="4.1059904" />
     <rect
@@ -598,5 +615,124 @@
        x="615.42993"
        y="570.89862"
        ry="4.1059904" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="23.065693"
+       y="32.04073"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583"
+         x="23.065693"
+         y="32.04073">Queen of Darkness</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+       id="path1"
+       cx="75.568367"
+       cy="30.727373"
+       r="6.0486956" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="72.282784"
+       y="33.548733"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-weight:bold;font-size:7.76111px;stroke-width:0.264583"
+         x="72.282784"
+         y="33.548733">N</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3);display:inline" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+       id="rect4"
+       width="33.388802"
+       height="38.06646"
+       x="24.194782"
+       y="69.197075"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23108594,0,0,0.23108594,5.6128071,10.682324)"
+       id="text4"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline"><tspan
+         x="90.226562"
+         y="273.08625"
+         id="tspan3">As per chess </tspan><tspan
+         x="90.226562"
+         y="289.75287"
+         id="tspan8">queen, but may </tspan><tspan
+         x="90.226562"
+         y="306.4195"
+         id="tspan9">only start/move to </tspan><tspan
+         x="90.226562"
+         y="323.08613"
+         id="tspan10">black squares</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-opacity:1"
+       id="rect1-11"
+       width="63.5"
+       height="88.900002"
+       x="86.629959"
+       y="21.898615"
+       ry="4.1059904" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="89.165695"
+       y="32.040726"
+       id="text1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-8"
+         style="font-weight:bold;font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="89.165695"
+         y="32.040726">Queen of Darkness</tspan></text>
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-8"
+       cx="141.66838"
+       cy="30.727373"
+       r="6.0486956" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="138.3828"
+       y="33.548729"
+       id="text2-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         style="font-weight:bold;font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="138.3828"
+         y="33.548729">N</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-0"
+       width="33.388802"
+       height="38.06646"
+       x="90.294785"
+       y="69.197067"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23108594,0,0,0.23108594,71.712811,10.68232)"
+       id="text4-9"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-19);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="90.226562"
+         y="273.08625"
+         id="tspan11">As per chess </tspan><tspan
+         x="90.226562"
+         y="289.75287"
+         id="tspan12">queen, but may </tspan><tspan
+         x="90.226562"
+         y="306.4195"
+         id="tspan13">only start/move to </tspan><tspan
+         x="90.226562"
+         y="323.08613"
+         id="tspan14">black squares</tspan></text>
   </g>
 </svg>
