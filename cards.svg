@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.74825305"
-     inkscape:cx="1595.7168"
-     inkscape:cy="1478.7778"
+     inkscape:zoom="0.37412653"
+     inkscape:cx="1176.0727"
+     inkscape:cy="1335.1098"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -519,7 +519,7 @@
          id="tspan212">As per chess Rook</tspan></text>
     <g
        id="g5"
-       transform="translate(403.76936,-392.61875)">
+       transform="translate(391.65558,-434.84873)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
          id="rect1-44"
@@ -638,7 +638,7 @@
     </g>
     <g
        id="g6"
-       transform="translate(467.9662,-495.92341)">
+       transform="translate(449.50221,-564.87568)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
          id="rect1-59"
@@ -970,130 +970,6 @@
            y="373.086"
            id="tspan238">Noble rank</tspan></text>
     </g>
-    <g
-       id="g24">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
-         id="rect1-51-1-57"
-         width="63.5"
-         height="88.900002"
-         x="351.02997"
-         y="113.39862"
-         ry="4.1059904" />
-      <text
-         xml:space="preserve"
-         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="353.5657"
-         y="123.54071"
-         id="text1-09-1-6"><tspan
-           sodipodi:role="line"
-           id="tspan1-9-9-6"
-           style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583"
-           x="353.5657"
-           y="123.54071">Monk</tspan></text>
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
-         id="path1-68-7-58"
-         cx="406.06836"
-         cy="122.22736"
-         r="6.0486956" />
-      <text
-         xml:space="preserve"
-         style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="402.78278"
-         y="125.04871"
-         id="text2-3-6-25"><tspan
-           sodipodi:role="line"
-           id="tspan2-4-2-4"
-           style="font-weight:bold;font-size:7.76111px;stroke-width:0.264583"
-           x="402.78278"
-           y="125.04871">N</tspan></text>
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
-         id="rect4-84-9-4"
-         width="33.388802"
-         height="38.06646"
-         x="354.69479"
-         y="160.69708"
-         ry="0" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.23108594,0,0,0.23108594,336.11281,102.18231)"
-         id="text4-99-5-1"
-         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-97);display:inline"><tspan
-           x="90.226562"
-           y="273.08625"
-           id="tspan239">Moves up to 3 </tspan><tspan
-           x="90.226562"
-           y="289.75287"
-           id="tspan240">diagonally or 1 </tspan><tspan
-           x="90.226562"
-           y="306.4195"
-           id="tspan241">horizontally</tspan></text>
-    </g>
-    <g
-       id="g24-5"
-       transform="translate(-198.3,274.5)"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-opacity:1"
-         id="rect1-51-1-57-9"
-         width="63.5"
-         height="88.900002"
-         x="351.02997"
-         y="113.39862"
-         ry="4.1059904" />
-      <text
-         xml:space="preserve"
-         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="353.5657"
-         y="123.54071"
-         id="text1-09-1-6-9"><tspan
-           sodipodi:role="line"
-           id="tspan1-9-9-6-4"
-           style="font-weight:bold;font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="353.5657"
-           y="123.54071">Monk</tspan></text>
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-         id="path1-68-7-58-2"
-         cx="406.06836"
-         cy="122.22736"
-         r="6.0486956" />
-      <text
-         xml:space="preserve"
-         style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="402.78278"
-         y="125.04871"
-         id="text2-3-6-25-8"><tspan
-           sodipodi:role="line"
-           id="tspan2-4-2-4-9"
-           style="font-weight:bold;font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="402.78278"
-           y="125.04871">N</tspan></text>
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4-84-9-4-5"
-         width="33.388802"
-         height="38.06646"
-         x="354.69479"
-         y="160.69708"
-         ry="0" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.23108594,0,0,0.23108594,336.11281,102.18231)"
-         id="text4-99-5-1-2"
-         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-97-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
-           x="90.226562"
-           y="273.08625"
-           id="tspan242">Moves up to 3 </tspan><tspan
-           x="90.226562"
-           y="289.75287"
-           id="tspan243">diagonally or 1 </tspan><tspan
-           x="90.226562"
-           y="306.4195"
-           id="tspan244">horizontally</tspan></text>
-    </g>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
        id="rect1-51-1-53-9"
@@ -1145,10 +1021,10 @@
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-3);display:inline"><tspan
          x="90.226562"
          y="273.08625"
-         id="tspan245">Moves per Rook&#10;</tspan><tspan
+         id="tspan239">Moves per Rook&#10;</tspan><tspan
          x="90.226562"
          y="289.75287"
-         id="tspan246">LEAP</tspan></text>
+         id="tspan240">LEAP</tspan></text>
     <g
        id="g25"
        style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
@@ -1204,19 +1080,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-72);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan247">Moves per Bishop&#10;</tspan><tspan
+           id="tspan241">Moves per Bishop&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan248">Opponent may </tspan><tspan
+           id="tspan242">Opponent may </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan249">move this piece, </tspan><tspan
+           id="tspan243">move this piece, </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan250">but not capture </tspan><tspan
+           id="tspan244">but not capture </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan251">with it</tspan></text>
+           id="tspan245">with it</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
@@ -1269,16 +1145,16 @@
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-9);display:inline"><tspan
          x="90.226562"
          y="273.08625"
-         id="tspan252">Moves 1 </tspan><tspan
+         id="tspan246">Moves 1 </tspan><tspan
          x="90.226562"
          y="289.75287"
-         id="tspan253">horizontally or </tspan><tspan
+         id="tspan247">horizontally or </tspan><tspan
          x="90.226562"
          y="306.4195"
-         id="tspan254">vertically&#10;</tspan><tspan
+         id="tspan248">vertically&#10;</tspan><tspan
          x="90.226562"
          y="323.08613"
-         id="tspan255">SWAP</tspan></text>
+         id="tspan249">SWAP</tspan></text>
     <g
        id="g83"
        transform="translate(-1.3713531e-5,4.0868988e-5)">
@@ -1333,19 +1209,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-0);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan256">Moves up to 5 </tspan><tspan
+           id="tspan250">Moves up to 5 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan257">diagonally, </tspan><tspan
+           id="tspan251">diagonally, </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan258">vertically, or </tspan><tspan
+           id="tspan252">vertically, or </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan259">horizontally&#10;</tspan><tspan
+           id="tspan253">horizontally&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan260">SWAP</tspan></text>
+           id="tspan254">SWAP</tspan></text>
     </g>
     <g
        id="g105"
@@ -1401,19 +1277,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-90);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan261">Moves per Queen, </tspan><tspan
+           id="tspan255">Moves per Queen, </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan262">but only on white </tspan><tspan
+           id="tspan256">but only on white </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan263">squares&#10;</tspan><tspan
+           id="tspan257">squares&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan264">Must start game </tspan><tspan
+           id="tspan258">Must start game </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan265">on white square</tspan></text>
+           id="tspan259">on white square</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
@@ -1466,19 +1342,19 @@
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-27);display:inline"><tspan
          x="90.226562"
          y="273.08625"
-         id="tspan266">Moves per Queen&#10;</tspan><tspan
+         id="tspan260">Moves per Queen&#10;</tspan><tspan
          x="90.226562"
          y="289.75287"
-         id="tspan267">Can be Checked </tspan><tspan
+         id="tspan261">Can be Checked </tspan><tspan
          x="90.226562"
          y="306.4195"
-         id="tspan268">and Checkmated </tspan><tspan
+         id="tspan262">and Checkmated </tspan><tspan
          x="90.226562"
          y="323.08613"
-         id="tspan269">like a King</tspan></text>
+         id="tspan263">like a King</tspan></text>
     <g
        id="g36"
-       transform="translate(-941.51458,138.41251)">
+       transform="translate(-941.51453,138.41251)">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-opacity:1"
          id="rect1-00"
@@ -1533,19 +1409,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-84);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan270">Moves per Queen </tspan><tspan
+           id="tspan264">Moves per Queen </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan271">but only on black </tspan><tspan
+           id="tspan265">but only on black </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan272">squares&#10;</tspan><tspan
+           id="tspan266">squares&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan273">Must start game </tspan><tspan
+           id="tspan267">Must start game </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan274">on white square</tspan></text>
+           id="tspan268">on white square</tspan></text>
     </g>
     <g
        id="g33"
@@ -1601,19 +1477,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-0-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan275">Moves up to 5 </tspan><tspan
+           id="tspan269">Moves up to 5 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan276">diagonally, </tspan><tspan
+           id="tspan270">diagonally, </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan277">vertically, or </tspan><tspan
+           id="tspan271">vertically, or </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan278">horizontally&#10;</tspan><tspan
+           id="tspan272">horizontally&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan279">SWAP</tspan></text>
+           id="tspan273">SWAP</tspan></text>
     </g>
     <g
        id="g35"
@@ -1669,23 +1545,23 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-90-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan280">Moves per Queen, </tspan><tspan
+           id="tspan274">Moves per Queen, </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan281">but only on white </tspan><tspan
+           id="tspan275">but only on white </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan282">squares&#10;</tspan><tspan
+           id="tspan276">squares&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan283">Must start game </tspan><tspan
+           id="tspan277">Must start game </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan284">on white square</tspan></text>
+           id="tspan278">on white square</tspan></text>
     </g>
     <g
        id="g37"
-       transform="translate(-941.51458,138.41251)">
+       transform="translate(-941.51451,138.41251)">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-opacity:1"
          id="rect1-6-9"
@@ -1737,16 +1613,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-27-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan285">Moves per Queen&#10;</tspan><tspan
+           id="tspan279">Moves per Queen&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan286">Can be Checked </tspan><tspan
+           id="tspan280">Can be Checked </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan287">and Checkmated </tspan><tspan
+           id="tspan281">and Checkmated </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan288">like a King</tspan></text>
+           id="tspan282">like a King</tspan></text>
     </g>
     <g
        id="g17"
@@ -1802,7 +1678,7 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan289">As per chess Pawn</tspan></text>
+           id="tspan283">As per chess Pawn</tspan></text>
       <circle
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
          id="path11"
@@ -1870,7 +1746,7 @@
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-5-9);display:inline"><tspan
          x="90.226562"
          y="273.08625"
-         id="tspan290">As per chess Pawn</tspan></text>
+         id="tspan284">As per chess Pawn</tspan></text>
     <g
        id="g43">
       <circle
@@ -1945,13 +1821,13 @@
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-8);display:inline"><tspan
              x="90.226562"
              y="273.08625"
-             id="tspan291">As per chess </tspan><tspan
+             id="tspan285">As per chess </tspan><tspan
              x="90.226562"
              y="289.75287"
-             id="tspan292">Knight&#10;</tspan><tspan
+             id="tspan286">Knight&#10;</tspan><tspan
              x="90.226562"
              y="306.4195"
-             id="tspan293">LEAP</tspan></text>
+             id="tspan287">LEAP</tspan></text>
       </g>
       <g
          id="g60">
@@ -2025,16 +1901,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-1);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan294">Moves exactly 3 </tspan><tspan
+           id="tspan288">Moves exactly 3 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan295">squares vertically </tspan><tspan
+           id="tspan289">squares vertically </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan296">or as per Knight&#10;</tspan><tspan
+           id="tspan290">or as per Knight&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan297">LEAP</tspan></text>
+           id="tspan291">LEAP</tspan></text>
       <g
          id="g19"
          transform="translate(1.4113074)">
@@ -2112,16 +1988,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-1-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan298">Moves exactly 3 </tspan><tspan
+           id="tspan292">Moves exactly 3 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan299">squares vertically </tspan><tspan
+           id="tspan293">squares vertically </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan300">or as per Knight&#10;</tspan><tspan
+           id="tspan294">or as per Knight&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan301">LEAP</tspan></text>
+           id="tspan295">LEAP</tspan></text>
       <g
          id="g19-5-1"
          transform="translate(34.805328,390.14125)"
@@ -2205,13 +2081,13 @@
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-8-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
              x="90.226562"
              y="273.08625"
-             id="tspan302">As per chess </tspan><tspan
+             id="tspan296">As per chess </tspan><tspan
              x="90.226562"
              y="289.75287"
-             id="tspan303">Knight&#10;</tspan><tspan
+             id="tspan297">Knight&#10;</tspan><tspan
              x="90.226562"
              y="306.4195"
-             id="tspan304">LEAP</tspan></text>
+             id="tspan298">LEAP</tspan></text>
       </g>
       <path
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2283,19 +2159,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan305">Moves per Knight&#10;</tspan><tspan
+           id="tspan299">Moves per Knight&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan306">LEAP&#10;</tspan><tspan
+           id="tspan300">LEAP&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan307">May not be moved </tspan><tspan
+           id="tspan301">May not be moved </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan308">in consecutive </tspan><tspan
+           id="tspan302">in consecutive </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan309">turns</tspan></text>
+           id="tspan303">turns</tspan></text>
       <g
          id="g47-3"
          transform="translate(106.97955,-47.735914)">
@@ -2402,19 +2278,19 @@
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
          x="90.226562"
          y="273.08625"
-         id="tspan310">Moves per Knight&#10;</tspan><tspan
+         id="tspan304">Moves per Knight&#10;</tspan><tspan
          x="90.226562"
          y="289.75287"
-         id="tspan311">LEAP&#10;</tspan><tspan
+         id="tspan305">LEAP&#10;</tspan><tspan
          x="90.226562"
          y="306.4195"
-         id="tspan312">May not be moved </tspan><tspan
+         id="tspan306">May not be moved </tspan><tspan
          x="90.226562"
          y="323.08613"
-         id="tspan313">in consecutive </tspan><tspan
+         id="tspan307">in consecutive </tspan><tspan
          x="90.226562"
          y="339.75275"
-         id="tspan314">turns</tspan></text>
+         id="tspan308">turns</tspan></text>
     <g
        id="g14">
       <g
@@ -2471,22 +2347,22 @@
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-33);display:inline"><tspan
              x="90.226562"
              y="273.08625"
-             id="tspan315">Moves per chess </tspan><tspan
+             id="tspan309">Moves per chess </tspan><tspan
              x="90.226562"
              y="289.75287"
-             id="tspan316">Knight&#10;</tspan><tspan
+             id="tspan310">Knight&#10;</tspan><tspan
              x="90.226562"
              y="306.4195"
-             id="tspan317">LEAP&#10;</tspan><tspan
+             id="tspan311">LEAP&#10;</tspan><tspan
              x="90.226562"
              y="323.08613"
-             id="tspan318">May start in </tspan><tspan
+             id="tspan312">May start in </tspan><tspan
              x="90.226562"
              y="339.75275"
-             id="tspan319">Commoner or </tspan><tspan
+             id="tspan313">Commoner or </tspan><tspan
              x="90.226562"
              y="356.41938"
-             id="tspan320">Noble rank</tspan></text>
+             id="tspan314">Noble rank</tspan></text>
       </g>
       <g
          id="g9"
@@ -2587,22 +2463,22 @@
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-33-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
              x="90.226562"
              y="273.08625"
-             id="tspan321">Moves per chess </tspan><tspan
+             id="tspan315">Moves per chess </tspan><tspan
              x="90.226562"
              y="289.75287"
-             id="tspan322">Knight&#10;</tspan><tspan
+             id="tspan316">Knight&#10;</tspan><tspan
              x="90.226562"
              y="306.4195"
-             id="tspan323">LEAP&#10;</tspan><tspan
+             id="tspan317">LEAP&#10;</tspan><tspan
              x="90.226562"
              y="323.08613"
-             id="tspan324">May start in </tspan><tspan
+             id="tspan318">May start in </tspan><tspan
              x="90.226562"
              y="339.75275"
-             id="tspan325">Commoner or </tspan><tspan
+             id="tspan319">Commoner or </tspan><tspan
              x="90.226562"
              y="356.41938"
-             id="tspan326">Noble rank</tspan></text>
+             id="tspan320">Noble rank</tspan></text>
       </g>
       <g
          id="g9-7"
@@ -2700,13 +2576,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-9-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan327">Moves per Knight&#10;</tspan><tspan
+           id="tspan321">Moves per Knight&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan328">SWAP&#10;</tspan><tspan
+           id="tspan322">SWAP&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan329">LEAP</tspan></text>
+           id="tspan323">LEAP</tspan></text>
       <g
          id="g40"
          transform="translate(-4.6670132,429.60847)">
@@ -2800,13 +2676,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-9);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan330">Moves per Knight&#10;</tspan><tspan
+           id="tspan324">Moves per Knight&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan331">SWAP&#10;</tspan><tspan
+           id="tspan325">SWAP&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan332">LEAP</tspan></text>
+           id="tspan326">LEAP</tspan></text>
       <g
          id="g38-2"
          transform="translate(117.18605,5.955252)">
@@ -2924,19 +2800,19 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan333">Moves per Bishop&#10;</tspan><tspan
+           id="tspan327">Moves per Bishop&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan334">Opponent may </tspan><tspan
+           id="tspan328">Opponent may </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan335">move this piece, </tspan><tspan
+           id="tspan329">move this piece, </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan336">but not capture </tspan><tspan
+           id="tspan330">but not capture </tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan337">with it</tspan></text>
+           id="tspan331">with it</tspan></text>
       <g
          id="g44-5"
          transform="translate(472.62402,4.264164)"
@@ -3012,22 +2888,22 @@
            style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-71);display:inline"><tspan
              x="90.226562"
              y="273.08625"
-             id="tspan338">Moves 1 square </tspan><tspan
+             id="tspan332">Moves 1 square </tspan><tspan
              x="90.226562"
              y="289.75287"
-             id="tspan339">forward&#10;</tspan><tspan
+             id="tspan333">forward&#10;</tspan><tspan
              x="90.226562"
              y="306.4195"
-             id="tspan340">Can't capture&#10;</tspan><tspan
+             id="tspan334">Can't capture&#10;</tspan><tspan
              x="90.226562"
              y="323.08613"
-             id="tspan341">SHIELD&#10;</tspan><tspan
+             id="tspan335">SHIELD&#10;</tspan><tspan
              x="90.226562"
              y="339.75275"
-             id="tspan342">Promotes per </tspan><tspan
+             id="tspan336">Promotes per </tspan><tspan
              x="90.226562"
              y="356.41938"
-             id="tspan343">chess Pawn</tspan></text>
+             id="tspan337">chess Pawn</tspan></text>
       </g>
       <g
          id="g49"
@@ -3112,13 +2988,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-7);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan344">Moves per Queen&#10;</tspan><tspan
+           id="tspan338">Moves per Queen&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan345">SHIELD&#10;</tspan><tspan
+           id="tspan339">SHIELD&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan346">SINGLETON</tspan></text>
+           id="tspan340">SINGLETON</tspan></text>
       <g
          id="g65"
          transform="translate(309.67464,43.913739)">
@@ -3209,13 +3085,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-7-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan347">Moves per Queen&#10;</tspan><tspan
+           id="tspan341">Moves per Queen&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan348">SHIELD&#10;</tspan><tspan
+           id="tspan342">SHIELD&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan349">SINGLETON</tspan></text>
+           id="tspan343">SINGLETON</tspan></text>
       <g
          id="g66"
          transform="translate(59.090663,328.16393)"
@@ -3344,69 +3220,68 @@
          d="m -73.042986,199.81641 c -1.595745,0 -2.880503,1.64422 -2.880503,3.68644 v 3.43214 h 19.666263 v -3.43214 c 0,-2.04222 -1.28476,-3.68644 -2.8805,-3.68644 z" />
     </g>
     <g
-       id="g62"
-       transform="translate(-1.3713531e-5,1.6550293e-5)">
+       id="g130">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
          id="rect1-51-1"
          width="63.5"
          height="88.900002"
-         x="152.72998"
-         y="113.39863"
+         x="152.72997"
+         y="113.39864"
          ry="4.1059904" />
       <text
          xml:space="preserve"
          style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="155.26572"
-         y="123.54072"
+         x="155.2657"
+         y="123.54073"
          id="text1-09-1"><tspan
            sodipodi:role="line"
            id="tspan1-9-9"
            style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583"
-           x="155.26572"
-           y="123.54072">Friar</tspan></text>
+           x="155.2657"
+           y="123.54073">Friar</tspan></text>
       <circle
          style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
          id="path1-68-7"
-         cx="207.76839"
-         cy="122.22736"
+         cx="207.76837"
+         cy="122.22738"
          r="6.0486956" />
       <text
          xml:space="preserve"
          style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="204.4828"
-         y="125.04871"
+         x="204.48279"
+         y="125.04873"
          id="text2-3-6"><tspan
            sodipodi:role="line"
            id="tspan2-4-2"
            style="font-weight:bold;font-size:7.76111px;stroke-width:0.264583"
-           x="204.4828"
-           y="125.04871">N</tspan></text>
+           x="204.48279"
+           y="125.04873">N</tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
          id="rect4-84-9"
          width="33.388802"
          height="38.06646"
-         x="156.39481"
-         y="160.6971"
+         x="156.39479"
+         y="160.69711"
          ry="0" />
       <text
          xml:space="preserve"
-         transform="matrix(0.23108594,0,0,0.23108594,137.81282,102.18232)"
+         transform="matrix(0.23108594,0,0,0.23108594,137.81281,102.18234)"
          id="text4-99-5"
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan350">Moves exactly 2 </tspan><tspan
+           id="tspan344">Moves exactly 2 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan351">squares diagonally&#10;</tspan><tspan
+           id="tspan345">squares diagonally&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan352">LEAP</tspan></text>
+           id="tspan346">LEAP</tspan></text>
       <g
          id="g57"
-         transform="translate(239.18274,-47.580441)">
+         transform="translate(239.18273,-47.580424)">
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
            d="m -60.217731,201.8732 -2.12529,-15.87715 c 0,0 2.284292,-1.63558 1.250172,-3.62549 -1.061457,-2.04251 -2.95903,0.50006 -5.000681,0.50006 -2.04165,0 -3.939223,-2.54257 -5.00068,-0.50006 -1.03412,1.98991 1.250171,3.62549 1.250171,3.62549 l -2.125289,15.87715 z"
@@ -3491,13 +3366,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan353">Moves exactly 2 </tspan><tspan
+           id="tspan347">Moves exactly 2 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan354">squares diagonally&#10;</tspan><tspan
+           id="tspan348">squares diagonally&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan355">LEAP</tspan></text>
+           id="tspan349">LEAP</tspan></text>
       <g
          id="g58"
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
@@ -3602,22 +3477,22 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-7);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan356">Moves 1 square </tspan><tspan
+           id="tspan350">Moves 1 square </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan357">forward (including </tspan><tspan
+           id="tspan351">forward (including </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan358">1st move)&#10;</tspan><tspan
+           id="tspan352">1st move)&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan359">Captures forward&#10;</tspan><tspan
+           id="tspan353">Captures forward&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan360">Promotes per </tspan><tspan
+           id="tspan354">Promotes per </tspan><tspan
            x="90.226562"
            y="356.41938"
-           id="tspan361">chess Pawn</tspan></text>
+           id="tspan355">chess Pawn</tspan></text>
       <g
          id="g75"
          transform="translate(533.00049,-139.372)">
@@ -3709,22 +3584,22 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-7-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan362">Moves 1 square </tspan><tspan
+           id="tspan356">Moves 1 square </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan363">forward (including </tspan><tspan
+           id="tspan357">forward (including </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan364">1st move)&#10;</tspan><tspan
+           id="tspan358">1st move)&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan365">Captures forward&#10;</tspan><tspan
+           id="tspan359">Captures forward&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan366">Promotes per </tspan><tspan
+           id="tspan360">Promotes per </tspan><tspan
            x="90.226562"
            y="356.41938"
-           id="tspan367">chess Pawn</tspan></text>
+           id="tspan361">chess Pawn</tspan></text>
       <g
          id="g81"
          transform="translate(334.7005,135.26881)"
@@ -3818,10 +3693,10 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan368">As per chess </tspan><tspan
+           id="tspan362">As per chess </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan369">Bishop</tspan></text>
+           id="tspan363">Bishop</tspan></text>
       <g
          id="g91"
          transform="translate(-0.19979356,2.6458334)">
@@ -3899,10 +3774,10 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan370">As per chess </tspan><tspan
+           id="tspan364">As per chess </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan371">Bishop</tspan></text>
+           id="tspan365">Bishop</tspan></text>
       <g
          id="g90"
          transform="translate(710.82169,43.492974)"
@@ -3981,7 +3856,7 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-2-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan372">As per chess Rook</tspan></text>
+           id="tspan366">As per chess Rook</tspan></text>
       <g
          id="g95"
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
@@ -4078,16 +3953,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-22-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan373">Moves up to 4 </tspan><tspan
+           id="tspan367">Moves up to 4 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan374">horizontally or </tspan><tspan
+           id="tspan368">horizontally or </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan375">vertically&#10;</tspan><tspan
+           id="tspan369">vertically&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan376">SHIELD</tspan></text>
+           id="tspan370">SHIELD</tspan></text>
       <g
          id="g99"
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
@@ -4202,16 +4077,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-22);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan377">Moves up to 4 </tspan><tspan
+           id="tspan371">Moves up to 4 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan378">horizontally or </tspan><tspan
+           id="tspan372">horizontally or </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan379">vertically&#10;</tspan><tspan
+           id="tspan373">vertically&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan380">SHIELD</tspan></text>
+           id="tspan374">SHIELD</tspan></text>
       <g
          id="g99-2"
          transform="translate(68.086524,14.659311)">
@@ -4325,22 +4200,22 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-0-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan381">Moves per chess </tspan><tspan
+           id="tspan375">Moves per chess </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan382">Pawn&#10;</tspan><tspan
+           id="tspan376">Pawn&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan383">Captures per </tspan><tspan
+           id="tspan377">Captures per </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan384">chess Pawn&#10;</tspan><tspan
+           id="tspan378">chess Pawn&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan385">Does not promote: </tspan><tspan
+           id="tspan379">Does not promote: </tspan><tspan
            x="90.226562"
            y="356.41938"
-           id="tspan386">Loops</tspan></text>
+           id="tspan380">Loops</tspan></text>
       <g
          id="g103"
          transform="translate(450.59879,135.08421)"
@@ -4423,22 +4298,22 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-0);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan387">Moves per chess </tspan><tspan
+           id="tspan381">Moves per chess </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan388">Pawn&#10;</tspan><tspan
+           id="tspan382">Pawn&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan389">Captures per </tspan><tspan
+           id="tspan383">Captures per </tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan390">chess Pawn&#10;</tspan><tspan
+           id="tspan384">chess Pawn&#10;</tspan><tspan
            x="90.226562"
            y="339.75275"
-           id="tspan391">Does not promote: </tspan><tspan
+           id="tspan385">Does not promote: </tspan><tspan
            x="90.226562"
            y="356.41938"
-           id="tspan392">Loops</tspan></text>
+           id="tspan386">Loops</tspan></text>
       <g
          id="g103-0"
          transform="translate(648.95127,-139.53951)">
@@ -4518,13 +4393,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-2);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan393">Moves up to 3 </tspan><tspan
+           id="tspan387">Moves up to 3 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan394">spaces diagonally&#10;</tspan><tspan
+           id="tspan388">spaces diagonally&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan395">SWAP</tspan></text>
+           id="tspan389">SWAP</tspan></text>
       <g
          id="g109"
          transform="translate(572.8469,-47.721855)">
@@ -4610,13 +4485,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-2-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan396">Moves up to 3 </tspan><tspan
+           id="tspan390">Moves up to 3 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan397">spaces diagonally&#10;</tspan><tspan
+           id="tspan391">spaces diagonally&#10;</tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan398">SWAP</tspan></text>
+           id="tspan392">SWAP</tspan></text>
       <g
          id="g109-0"
          transform="translate(374.54694,226.42454)"
@@ -4703,13 +4578,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-5);display:inline"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan399">Moves up to 2 </tspan><tspan
+           id="tspan393">Moves up to 2 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan400">spaces vertically </tspan><tspan
+           id="tspan394">spaces vertically </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan401">or horizontally</tspan></text>
+           id="tspan395">or horizontally</tspan></text>
       <g
          id="g116"
          style="stroke-width:1.25;stroke-dasharray:none"
@@ -4824,13 +4699,13 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-5-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan402">Moves up to 2 </tspan><tspan
+           id="tspan396">Moves up to 2 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan403">spaces vertically </tspan><tspan
+           id="tspan397">spaces vertically </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan404">or horizontally</tspan></text>
+           id="tspan398">or horizontally</tspan></text>
       <g
          id="g116-7"
          transform="translate(444.64746,226.28875)"
@@ -4945,16 +4820,16 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-9-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan405">Moves 1 </tspan><tspan
+           id="tspan399">Moves 1 </tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan406">horizontally or </tspan><tspan
+           id="tspan400">horizontally or </tspan><tspan
            x="90.226562"
            y="306.4195"
-           id="tspan407">vertically&#10;</tspan><tspan
+           id="tspan401">vertically&#10;</tspan><tspan
            x="90.226562"
            y="323.08613"
-           id="tspan408">SWAP</tspan></text>
+           id="tspan402">SWAP</tspan></text>
       <g
          id="g121"
          style="fill:#000000;fill-opacity:1;stroke:#fdfdfd;stroke-opacity:1"
@@ -5096,10 +4971,10 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-3-3-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
            x="90.226562"
            y="273.08625"
-           id="tspan409">Moves per Rook&#10;</tspan><tspan
+           id="tspan403">Moves per Rook&#10;</tspan><tspan
            x="90.226562"
            y="289.75287"
-           id="tspan410">LEAP</tspan></text>
+           id="tspan404">LEAP</tspan></text>
       <g
          id="g128"
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
@@ -5220,6 +5095,187 @@
          id="path124-7"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
          d="m -80.885981,200.0522 c -1.59573,0 -2.88049,1.64422 -2.88049,3.68644 v 3.43213 h 19.66625 v -3.43213 c 0,-2.04222 -1.28476,-3.68644 -2.88049,-3.68644 z" />
+    </g>
+    <g
+       id="g133">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6;stroke-opacity:1"
+         id="rect1-51-1-57"
+         width="63.5"
+         height="88.900002"
+         x="351.02997"
+         y="113.39862"
+         ry="4.1059904" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="353.5657"
+         y="123.54071"
+         id="text1-09-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan1-9-9-6"
+           style="font-weight:bold;font-size:4.23333px;stroke-width:0.264583"
+           x="353.5657"
+           y="123.54071">Monk</tspan></text>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+         id="path1-68-7-58"
+         cx="406.06836"
+         cy="122.22736"
+         r="6.0486956" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="402.78278"
+         y="125.04871"
+         id="text2-3-6-25"><tspan
+           sodipodi:role="line"
+           id="tspan2-4-2-4"
+           style="font-weight:bold;font-size:7.76111px;stroke-width:0.264583"
+           x="402.78278"
+           y="125.04871">N</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+         id="rect4-84-9-4"
+         width="33.388802"
+         height="38.06646"
+         x="354.69479"
+         y="160.69708"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.23108594,0,0,0.23108594,336.11281,102.18231)"
+         id="text4-99-5-1"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-97);display:inline"><tspan
+           x="90.226562"
+           y="273.08625"
+           id="tspan405">Moves up to 3 </tspan><tspan
+           x="90.226562"
+           y="289.75287"
+           id="tspan406">diagonally or 1 </tspan><tspan
+           x="90.226562"
+           y="306.4195"
+           id="tspan407">horizontally</tspan></text>
+      <g
+         id="g132"
+         transform="translate(392.5011,-21.043516)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -15.236111,175.23897 -2.12529,-15.87715 c 0,0 2.284292,-1.63558 1.250172,-3.62549 -1.061457,-2.04251 -2.95903,0.50006 -5.000681,0.50006 -2.04165,0 -3.939223,-2.54257 -5.00068,-0.50006 -1.03412,1.98991 1.250171,3.62549 1.250171,3.62549 l -2.125289,15.87715 z"
+           id="path52-9"
+           sodipodi:nodetypes="ccscscc" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
+           id="path54-6"
+           cx="-21.111908"
+           cy="153.17339"
+           r="4.6852183" />
+        <path
+           id="path51-8"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
+           d="m -28.064542,173.16794 c -1.595736,0 -2.880494,1.64422 -2.880494,3.68644 v 3.43213 h 19.666253 v -3.43213 c 0,-2.04222 -1.284758,-3.68644 -2.880492,-3.68644 z" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -16.587395,156.30451 2.250306,-2.50034 c -0.501495,-2.59196 -1.75845,-5.25402 -3.219189,-6.40712 -1.14594,-0.95329 -2.358659,-2.16122 -4.781898,-2.15654 0,0 0.171892,0.56062 -0.843865,1.50021 -1.937504,1.79221 -4.125561,5.07987 -4.125561,7.09471 l 1.031391,2.21905 c 6.486844,4.42224 8.144269,1.88609 9.688816,0.25003 z"
+           id="path131"
+           sodipodi:nodetypes="ccccsccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -20.712956,149.17855 c -1.380957,1.8705 -4.171289,3.36155 -3.625493,5.75079 2.187797,0.24502 4.7819,0.90187 6.969698,-0.12503 -0.989718,-1.64606 -1.71981,-6.33708 -3.344205,-5.62576 z"
+           id="path132"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g134">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-opacity:1"
+         id="rect1-51-1-57-9"
+         width="63.5"
+         height="88.900002"
+         x="152.72997"
+         y="387.89862"
+         ry="4.1059904" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="155.2657"
+         y="398.04071"
+         id="text1-09-1-6-9"><tspan
+           sodipodi:role="line"
+           id="tspan1-9-9-6-4"
+           style="font-weight:bold;font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="155.2657"
+           y="398.04071">Monk</tspan></text>
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-68-7-58-2"
+         cx="207.76836"
+         cy="396.72736"
+         r="6.0486956" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="204.48277"
+         y="399.54871"
+         id="text2-3-6-25-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-4-2-4-9"
+           style="font-weight:bold;font-size:7.76111px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="204.48277"
+           y="399.54871">N</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-84-9-4-5"
+         width="33.388802"
+         height="38.06646"
+         x="156.39479"
+         y="435.19708"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.23108594,0,0,0.23108594,137.81281,376.68231)"
+         id="text4-99-5-1-2"
+         style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-34-6-97-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+           x="90.226562"
+           y="273.08625"
+           id="tspan408">Moves up to 3 </tspan><tspan
+           x="90.226562"
+           y="289.75287"
+           id="tspan409">diagonally or 1 </tspan><tspan
+           x="90.226562"
+           y="306.4195"
+           id="tspan410">horizontally</tspan></text>
+      <g
+         id="g132-1"
+         transform="translate(194.2011,253.31236)"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -15.236111,175.23897 -2.12529,-15.87715 c 0,0 2.284292,-1.63558 1.250172,-3.62549 -1.061457,-2.04251 -2.95903,0.50006 -5.000681,0.50006 -2.04165,0 -3.939223,-2.54257 -5.00068,-0.50006 -1.03412,1.98991 1.250171,3.62549 1.250171,3.62549 l -2.125289,15.87715 z"
+           id="path52-9-0"
+           sodipodi:nodetypes="ccscscc" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
+           id="path54-6-7"
+           cx="-21.111908"
+           cy="153.17339"
+           r="4.6852183" />
+        <path
+           id="path51-8-7"
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-dasharray:none;stroke-opacity:1"
+           d="m -28.064542,173.16794 c -1.595736,0 -2.880494,1.64422 -2.880494,3.68644 v 3.43213 h 19.666253 v -3.43213 c 0,-2.04222 -1.284758,-3.68644 -2.880492,-3.68644 z" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -16.587395,156.30451 2.250306,-2.50034 c -0.501495,-2.59196 -1.75845,-5.25402 -3.219189,-6.40712 -1.14594,-0.95329 -2.358659,-2.16122 -4.781898,-2.15654 0,0 0.171892,0.56062 -0.843865,1.50021 -1.937504,1.79221 -4.125561,5.07987 -4.125561,7.09471 l 1.031391,2.21905 c 6.486844,4.42224 8.144269,1.88609 9.688816,0.25003 z"
+           id="path131-4"
+           sodipodi:nodetypes="ccccsccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m -20.712956,149.17855 c -1.380957,1.8705 -4.171289,3.36155 -3.625493,5.75079 2.187797,0.24502 4.7819,0.90187 6.969698,-0.12503 -0.989718,-1.64606 -1.71981,-6.33708 -3.344205,-5.62576 z"
+           id="path132-1"
+           sodipodi:nodetypes="cccc" />
+      </g>
     </g>
   </g>
 </svg>
