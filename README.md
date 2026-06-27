@@ -1,3 +1,5 @@
+![All the cards](cards.png)
+
 # Chess with Points
 This is for the Game Design certificate at UW in 2026. The rules, names, commoner/noble designations of each piece were not created by me and will be credited once I find the right person/group to credit. 
 
