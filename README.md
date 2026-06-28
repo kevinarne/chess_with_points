@@ -6,7 +6,7 @@ This is for the Game Design certificate at UW in 2026. The rules, names, commone
 No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 # Importing to Tabletop Simulator
-- Download [cards.png](cards.png)
+- Download [cards.png](cards.png) and [card_back.png](card_back.png)
 - Open Tabletop Simulator and create a sandbox room
 - Select **Objects** from the top menu and **Components** from the dialog box that brings up.
 
@@ -16,13 +16,12 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 ![Import dialog box](assets/import_dialog.svg)
 
-- Find cards.png on your computer and upload it as both the fronts and backs of the cards.
+- Find cards.png on your computer and upload it as the fronts of the cards.
+- Find card_back.png on your computer and upload it as the backs of the cards.
 - Make sure **Unique Backs** is checked.
 - Set width to 10, height to 6, and number of cards to 54, as shown in the image above.
 
-
 # Roadmap
-- Add square card backs with icons only.
 - Add pictographic representations of special rules (LEAP, SWAP, and SHIELD)
 - Add pictographic representations of movement for each piece
 - Create script to place the point value somewhere on each of these cards from a spreadsheet
