@@ -1,4 +1,4 @@
-![All the cards](cards.png)
+![All the cards](front.png)
 
 # Chess with Points
 This is for the Game Design certificate at UW in 2026. The rules, names, commoner/noble designations of each piece were not created by me and will be credited once I find the right person/group to credit. 
@@ -6,7 +6,7 @@ This is for the Game Design certificate at UW in 2026. The rules, names, commone
 No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 # Importing to Tabletop Simulator
-- Download [cards.png](cards.png) and [card_back.png](card_back.png)
+- Download [front.png](front.png) and [back.png](back.png)
 - Open Tabletop Simulator and create a sandbox room
 - Select **Objects** from the top menu and **Components** from the dialog box that brings up.
 
@@ -16,8 +16,8 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 ![Import dialog box](assets/import_dialog.svg)
 
-- Find cards.png on your computer and upload it as the fronts of the cards.
-- Find card_back.png on your computer and upload it as the backs of the cards.
+- Find front.png on your computer and upload it as the fronts of the cards.
+- Find back.png on your computer and upload it as the backs of the cards.
 - Make sure **Unique Backs** is checked.
 - Set width to 10, height to 6, and number of cards to 54, as shown in the image above.
 
