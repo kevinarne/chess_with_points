@@ -7,6 +7,7 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 # Importing to Tabletop Simulator
 - Download [front.png](front.png) and [back.png](back.png)
+    - If you prefer the borderless version of the back, download [back_no_border.png](back_no_border.png)
 - Open Tabletop Simulator and create a sandbox room
 - Select **Objects** from the top menu and **Components** from the dialog box that brings up.
 
@@ -17,7 +18,7 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 ![Import dialog box](assets/import_dialog.svg)
 
 - Find front.png on your computer and upload it as the fronts of the cards.
-- Find back.png on your computer and upload it as the backs of the cards.
+- Find back.png (or back_no_border.png) on your computer and upload it as the backs of the cards.
 - Make sure **Unique Backs** is checked.
 - Set width to 10, height to 6, and number of cards to 54, as shown in the image above.
 
