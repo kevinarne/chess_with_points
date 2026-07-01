@@ -23,5 +23,4 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 - Set width to 10, height to 6, and number of cards to 54, as shown in the image above.
 
 # Roadmap
-- Add pictographic representations of movement for each piece
 - Create script to place the point value somewhere on each of these cards from a spreadsheet
