@@ -17,8 +17,8 @@ No AI was used in the creation of these cards, just MI (meaty intelligence).
 
 ![Import dialog box](assets/import_dialog.svg)
 
-- Find front.png on your computer and upload it as the fronts of the cards.
-- Find back.png (or back_no_border.png) on your computer and upload it as the backs of the cards.
+- Find front.png on your computer and upload it as the fronts of the cards. You can choose either Cloud or Local (both work).
+- Find back.png (or back_no_border.png) on your computer and upload it as the backs of the cards. You can choose either Cloud or Local (both work).
 - Make sure **Unique Backs** is checked.
 - Set width to 10, height to 6, and number of cards to 54, as shown in the image above.
 
